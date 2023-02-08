@@ -28,7 +28,7 @@ export default function SignUp() {
         updateProfile(user, {
           displayName: values.name,
         });
-        navigate("/");
+        navigate("/login");
       })
       .catch((err) => {
         setsubmitButtonDisabled(false);
