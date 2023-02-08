@@ -1,0 +1,11 @@
+
+.containerr {
+  background-color: darkcyan;
+  border-radius: 5px;
+  margin-left: 25%;
+  margin-top: 10%;
+  width: 50%;
+  height: 50%;
+  text-align: center;
+  padding: 10px;
+}

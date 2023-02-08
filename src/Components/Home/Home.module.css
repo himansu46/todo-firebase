@@ -1,0 +1,41 @@
+.containerr {
+  height: 100%;
+  width: 100%;
+  min-height: 100vh;
+  background: darkcyan;
+  overflow: hidden;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.loglink {
+  color: #fff;
+}
+.signlink {
+  color: #000;
+}
+
+.Home {
+  min-width: 480px;
+  height: fit-content;
+  width: fit-content;
+  padding: 35px;
+  border-radius: 25px;
+  display: flex;
+  flex-direction: row;
+  gap: 30px;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  justify-content: center;
+  color: lightgray;
+  margin-left: 33%;
+  margin-bottom: 8%;
+}
+Link ::content {
+  text-decoration: none;
+}
